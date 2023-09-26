@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchResults>
+  <SearchResult>
+    <ID>ID 1</ID>
+    <Connections>
+      <Connection>
+        <Start>Start Station 1</Start>
+        <Finish>Finish Station 1</Finish>
+        <DepartureTime>2022-06-02T09:23:00+01:00</DepartureTime>
+        <ArrivalTime>2022-06-02T12:41:00+02:00</ArrivalTime>
+        <TrainName>Train Name A</TrainName>
+        <Fares>
+          <Fare>
+            <Name>Standard Class</Name>
+            <Price>
+              <Currency>GBP</Currency>
+              <Value>10.00</Value>
+            </Price>
+          </Fare>
+          <Fare>
+            <Name>Standard Premier</Name>
+            <Price>
+              <Currency>GBP</Currency>
+              <Value>11.00</Value>
+            </Price>
+          </Fare>
+        </Fares>
+      </Connection>
+      <Connection>
+        <Start>Start Station 2</Start>
+        <Finish>Finish Station 2</Finish>
+        <DepartureTime>2022-06-02T13:56:00+02:00</DepartureTime>
+        <ArrivalTime>2022-06-02T20:17:00+02:00</ArrivalTime>
+        <TrainName>Train Name B</TrainName>
+        <Fares>
+          <Fare>
+            <Name>Standard Class</Name>
+            <Price>
+              <Currency>GBP</Currency>
+              <Value>9.90</Value>
+            </Price>
+          </Fare>
+          <Fare>
+            <Name>First Class</Name>
+            <Price>
+              <Currency>GBP</Currency>
+              <Value>18.90</Value>
+            </Price>
+          </Fare>
+        </Fares>
+      </Connection>
+    </Connections>
+  </SearchResult>
+  <SearchResult>
+    <ID>ID 2</ID>
+    <Connections>
+      <Connection>
+        <Start>Start Station 1</Start>
+        <Finish>Finish Station 1</Finish>
+        <DepartureTime>2022-06-02T09:45:00+01:00</DepartureTime>
+        <ArrivalTime>2022-06-02T12:54:00+02:00</ArrivalTime>
+        <TrainName>Train Name C</TrainName>
+        <Fares>
+          <Fare>
+            <Name>Standard Class</Name>
+            <Price>
+              <Currency>GBP</Currency>
+              <Value>18.00</Value>
+            </Price>
+          </Fare>
+          <Fare>
+            <Name>Standard Premier</Name>
+            <Price>
+              <Currency>GBP</Currency>
+              <Value>27.00</Value>
+            </Price>
+          </Fare>
+        </Fares>
+      </Connection>
+      <Connection>
+        <Start>Start Station 2</Start>
+        <Finish>Finish Station 2</Finish>
+        <DepartureTime>2022-06-02T14:11:00+02:00</DepartureTime>
+        <ArrivalTime>2022-06-02T20:50:00+02:00</ArrivalTime>
+        <TrainName>Train Name D</TrainName>
+        <Fares>
+          <Fare>
+            <Name>Standard Class</Name>
+            <Price>
+              <Currency>GBP</Currency>
+              <Value>19.00</Value>
+            </Price>
+          </Fare>
+          <Fare>
+            <Name>First Class</Name>
+            <Price>
+              <Currency>GBP</Currency>
+              <Value>26.00</Value>
+            </Price>
+          </Fare>
+        </Fares>
+      </Connection>
+    </Connections>
+  </SearchResult>
+</SearchResults>
